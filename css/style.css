@@ -146,13 +146,13 @@ button {
   width: 100%;
 }
 
-@media screen and (min-width: 767px) {
+@media screen and (min-width: 766px) {
   .card {
     width: 456px;
     padding: 40px;
   }
 }
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1439px) {
   .card {
     width: 384px;
     padding: 40px;
