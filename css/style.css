@@ -144,6 +144,14 @@ button {
   font-weight: var(--fw-bold);
   line-height: var(--lh-150);
   width: 100%;
+  cursor: pointer;
+  transition: var(--tr-ease-150);
+  transition-property: var(--tr-p-bg), color;
+}
+
+.btn:hover {
+  background-color: var(--Green);
+  color: var(--grey-800);
 }
 
 @media screen and (min-width: 766px) {
