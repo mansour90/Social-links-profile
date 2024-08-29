@@ -114,7 +114,6 @@ p {
   font-size: var(--fs-14);
   font-weight: var(--fw-regular);
   line-height: var(--lh-150);
-  text-transform: capitalize;
   margin-bottom: 24px;
   text-align: center;
 }
